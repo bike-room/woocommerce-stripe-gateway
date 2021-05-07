@@ -1,0 +1,13 @@
+{
+  "name": "woocommerce-stripe-gateway",
+  "authors": [
+    {
+      "name": "LOUD s.r.l",
+      "email": "info@loudsrl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
